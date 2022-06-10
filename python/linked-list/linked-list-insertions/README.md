@@ -14,7 +14,8 @@ adds a new node with the given new value immediately after the first node that h
 
 ## Whiteboard Process
 
-![screenshot](/python/linked-list-insertions/screenshot-6.jpg)
+![linked-list-insertion](/python/linked-list-insertions/screenshot-6.jpg)
+![linked-list-kth](/python/linked-list-insertions/kth.png)
 
 ## Approach & Efficiency
 
