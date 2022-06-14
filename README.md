@@ -9,3 +9,5 @@
 3. [linked-list-insertion](/python/linked-list/linked-list-insertions/README.md)
 
 4. [linked-list-kth](/python/linked-list/linked-list-insertions/README.md)
+
+8. [linked-list-zip](/python/linked_list_zip/README.md)
