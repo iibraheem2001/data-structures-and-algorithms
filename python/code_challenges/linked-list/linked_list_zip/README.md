@@ -5,7 +5,7 @@
 
 ## Whiteboard Process
 
-![whiteboard](/python/linked_list_zip/Screenshot.jpg)
+![whiteboard](/python/code_challenges/linked-list/linked_list_zipked_list_zip/Screenshot.jpg)
 
 
 ## Approach & Efficiency
