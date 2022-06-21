@@ -11,3 +11,7 @@
 4. [linked-list-kth](/python/code_challenges/linked-list/linked-list-insertions/README.md)
 
 8. [linked-list-zip](/python/code_challenges/linked-list/linked_list_zip/README.md)
+
+11. [stacks_&_queues](/python/stacks_queues/README.md)
+
+12. []()
