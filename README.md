@@ -9,3 +9,5 @@
 3. [linked-list-insertion](/python/linked-list/linked-list-insertions/README.md)
 
 4. [linked-list-kth](/python/linked-list/linked-list-insertions/README.md)
+
+4. [fizz_buzz_tree](/python/code_challenges/fizz_buzz/README.md)
