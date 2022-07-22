@@ -9,3 +9,5 @@
 3. [linked-list-insertion](/python/linked-list/linked-list-insertions/README.md)
 
 4. [linked-list-kth](/python/linked-list/linked-list-insertions/README.md)
+
+4. [tree-max](/python/tree_max/README.md)
