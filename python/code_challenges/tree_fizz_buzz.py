@@ -1,7 +1,5 @@
-from data_structures.binary_tree import BinaryTree
+from data_structures import kary_tree
 
 
-def fizz_buzz_tree(self, value):
-    self.key = value
-    self.child = []
+
     pass
